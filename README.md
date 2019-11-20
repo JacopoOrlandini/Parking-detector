@@ -1,6 +1,6 @@
 # Parking Spot Detector
 
-> This is a simple implementation and yet from perfect.
+> This is a simple implementation and yet from perfect.:thinking:
  
 This project takes several benefit features from Yolo V3 project and OpenCV project.
 ![Image of Yaktocat](t_yolo.jpg)
