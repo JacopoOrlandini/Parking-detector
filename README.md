@@ -11,6 +11,9 @@ The code is provided in Python 3.
 
 ### Darknet
 You need to manually download the weights, coco.names and yolov3.cfg 
+git clone https://github.com/pjreddie/darknet
+wget https://pjreddie.com/media/files/yolov3.weights
+
 
 ### Scripts
 The main script is called test_park.py
